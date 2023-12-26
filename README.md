@@ -20,7 +20,6 @@ The dataset used in this project consists of Titanic passenger information, incl
 
 - `data/`: Contains the dataset used for training and testing the model.
 - `notebooks/`: Jupyter Notebooks showcasing data exploration, preprocessing, model development, and evaluation.
-- `src/`: Source code containing scripts for data preprocessing, model creation, and evaluation.
 - `README.md`: Overview and details of the project.
 
 ## Usage
