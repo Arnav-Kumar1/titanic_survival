@@ -44,9 +44,8 @@ The dataset used in this project consists of Titanic passenger information, incl
 
 ## Usage
 
-1. Navigate to the `notebooks/` directory and run the Jupyter Notebooks to follow the step-by-step process.
-2. Explore the scripts in the `src/` directory for data preprocessing, model creation, and evaluation.
-3. Experiment with different algorithms and techniques to improve the model's predictive performance.
+1. Navigate and run the Jupyter Notebooks to follow the step-by-step process.
+2. Experiment with different algorithms and techniques to improve the model's predictive performance.
 
 ## Contributions
 
